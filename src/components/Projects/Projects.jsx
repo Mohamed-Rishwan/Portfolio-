@@ -16,7 +16,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "Energu Theft Dectection",
+    title: "Energy Theft Dectection",
     category: "Web Design",
     image: "https://images.pexels.com/photos/3278215/pexels-photo-3278215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     description: "A modern blogging platform designed for travel enthusiasts to share their experiences and connect with others.",
